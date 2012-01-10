@@ -1,0 +1,11 @@
+7581f3e52e3eb09f4315c21f5e3f0d78 *DESCRIPTION
+600eaa4e664af2315378e5b3a45905c7 *NAMESPACE
+cd84851383624467c4ea45f5d7f6168b *R/svg.R
+c824b8f1ce7c56b92119fc80be088a38 *R/tree.R
+cc0512cf94f1ff479d924b2038a9f0a9 *inst/doc/changes.txt
+d5601950dfc1a4c662ecc6e57786f2af *inst/js/graphtips.js
+ef82948d4732a9a76090908432331cb1 *inst/js/grobtips.js
+05037acbda8fa044cea4ecf79bfd3817 *man/gridTree.Rd
+60450fce5bfbb93220c11f7c0f267610 *man/gridTreeTips.Rd
+7a1ab5592d438eb5e2c55222c72069cb *man/grobBrowser.Rd
+9ffe49cddbea2d0d07ffa4e59df82474 *tests/test.R
