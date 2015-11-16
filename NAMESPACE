@@ -1,11 +1,9 @@
 
-import(grid, gridGraphviz, gridSVG)
+import(grid, graph, gridGraphviz, gridSVG)
+importFrom("methods", "new")
 
 export(gridTree)
 export(gridTreeTips)
 export(grobBrowser)
 
-# 'gridSVG' methods
-S3method("primToDev", "beziergrob")
-S3method("primToDev", "edgegrob")
 
